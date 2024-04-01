@@ -6,7 +6,7 @@ Tenho 20 anos e sou um entusiasta de software apaixonado por transformar ideias 
 
 ## Habilidades e Tecnologias
 
-- Linguagens: [Python , HTML , css , js]
+- Linguagens: [Python , HTML , CSS , JS]
 - Frameworks: [Lista de frameworks que você domina]
 - Ferramentas: [VSCODE]
 
