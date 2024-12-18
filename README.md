@@ -57,14 +57,6 @@
 
 ---
 
-
-<h2 align="center">🎯 Minha Jornada</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=eolkazin&theme=radical&hide_border=true" alt="Atividade no GitHub" />
-</p>
-
----
-
 <h2 align="center">⚡ Curiosidades</h2>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
