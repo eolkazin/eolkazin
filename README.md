@@ -57,17 +57,6 @@
 
 ---
 
-<h2 align="center">🚀 Projetos em Destaque</h2>
-<div align="center">
-  <a href="https://github.com/eolkazin/portfolio" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eolkazin&repo=portfolio&theme=radical&hide_border=true" alt="Portfólio Digital" />
-  </a>
-  <a href="https://github.com/eolkazin/ai-chatbot" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eolkazin&repo=ai-chatbot&theme=radical&hide_border=true" alt="Chatbot AI" />
-  </a>
-</div>
-
----
 
 <h2 align="center">🎯 Minha Jornada</h2>
 <p align="center">
