@@ -43,7 +43,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,sass,python,nodejs,git,vscode" alt="Skills" />
 </div>
 <p align="center">
-  <b>Outras ferramentas:</b> Figma, REST APIs, GitHub Actions, Docker, e mais.
 </p>
 
 ---
