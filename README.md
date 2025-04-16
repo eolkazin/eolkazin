@@ -1,78 +1,77 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=800&height=70&lines=Olá%2C+eu+sou+Lucas+Guerra+👋;Bem-vindo+ao+meu+GitHub!+🚀;Apaixonado+por+tecnologia+e+inovação!" alt="Typing SVG" />
-</h1>
+<!-- Header com animação e imagem de destaque -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Fala%2C+devs!+Eu+sou+o+Lucas+%F0%9F%91%8B;Desenvolvedor+Web+em+formação;Amante+de+tech%2C+código+limpo+e+resolver+problemas" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://github.com/eolkazin/eolkazin/blob/main/banner.gif" alt="Banner personalizado" width="80%" />
-</p>
-
----
-
-<h2 align="center">🌟 Sobre Mim</h2>
-<p align="center">
-  🎓 Desenvolvedor apaixonado por criar soluções inteligentes com design moderno e código limpo.  
-  🚀 Sempre explorando novas tecnologias e ferramentas para resolver problemas de forma inovadora.  
-  🎮 Nos tempos livres: Gamer casual.
-</p>
+<!-- GIF de intro no topo -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Code typing animation">
+</div>
 
 ---
 
-<h2 align="center">🌐 Onde Me Encontrar</h2>
-<p align="center">
-  <a href="https://www.instagram.com/eolkazin/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://twitter.com/eolkazin" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+## 🧠 Sobre mim
+
+Olá, sou o **Lucas Guerra**, estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por **desenvolvimento web**. Focado em **JavaScript** e sempre buscando **aprender** novas tecnologias e ferramentas.
+
+- 🎓 **Estudante** de Desenvolvimento Web
+- 💻 Focado em **JavaScript**, **React**, **Node.js** e **Python**
+- 🚀 Apaixonado por **código limpo** e soluções inovadoras
+
+---
+
+## ⚙️ Tech Stack
+
+### 🖥️ Linguagens e Frameworks
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=3776AB" />
+</div>
+
+### 🛠️ Ferramentas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/VSCode-121212?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Figma-121212?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-121212?style=for-the-badge&logo=notion&logoColor=white" />
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eolkazin&show_icons=true&theme=react&bg_color=0d1117&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eolkazin&layout=compact&theme=react&bg_color=0d1117&hide_border=true"/>
+</div>
+
+---
+
+## 📬 Contato
+
+<div align="center">
+  <a href="mailto:lucasgueraa999@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/lucas-guerra-85225826a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="mailto:lucasgueraa999@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  <a href="https://www.instagram.com/eolkazin/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-121212?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
-
----
-
-<h2 align="center">💻 Tecnologias</h2>
-<p align="center">
-  Aqui estão as ferramentas que utilizo para transformar ideias em realidade:
-</p>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,sass,python,nodejs,git,vscode" alt="Skills" />
-</div>
-<p align="center">
-</p>
-
----
-
-<h2 align="center">📊 Estatísticas</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eolkazin&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=eolkazin&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eolkazin&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </div>
 
 ---
 
-<h2 align="center">⚡ Curiosidades</h2>
+<!-- GIF final para fechar com estilo -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" alt="Debugging mode">
 </div>
-<p align="center">
-  🎮 Gamer casual | 🌟 Apaixonado por inovação.
-</p>
 
----
-
-<h2 align="center">💬 Entre em Contato</h2>
-<p align="center">
-  Se você quer colaborar ou bater um papo sobre tecnologia, sinta-se à vontade para me enviar uma mensagem!
-</p>
-
----
-
-<p align="center">
-  <i>"A tecnologia é minha ferramenta para transformar ideias em realidades incríveis."</i>
-</p>
+<!-- Footer animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
