@@ -37,7 +37,6 @@ Olá, sou o **Lucas Guerra**, estudante de **Análise e Desenvolvimento de Siste
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-121212?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Figma-121212?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-121212?style=for-the-badge&logo=notion&logoColor=white" />
 </div>
 
