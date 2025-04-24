@@ -17,7 +17,7 @@ Sou o **Lucas Guerra**, estudante de **Análise e Desenvolvimento de Sistemas**.
 - 🎓 **Cursando ADS** – Aprofundando meus conhecimentos em programação e arquitetura de sistemas.
 - 🐍 **Python** – Apaixonado por automação, análise de dados e construção de APIs robustas.
 - ⚙️ **Foco** em lógica, resolução de problemas e automação de tarefas.
-- 📚 **Estudando**: `Flask`, `Pandas`, `OOP`, `APIs`, `GitHub Actions`
+- 📚 **Estudando**: `Django`, `SQLite`, `OOP`, `APIs`, `GitHub Actions`
 - 📝 **Próximos passos**: Aprimorar minhas habilidades em **DevOps** e **Data Science**.
 
 ---
@@ -59,13 +59,15 @@ Sou o **Lucas Guerra**, estudante de **Análise e Desenvolvimento de Sistemas**.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-1E1B2E?style=for-the-badge&logo=python&logoColor=9F6FFF" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://img.shields.io/badge/Flask-1E1B2E?style=for-the-badge&logo=flask&logoColor=9F6FFF" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://img.shields.io/badge/Django-1E1B2E?style=for-the-badge&logo=django&logoColor=9F6FFF" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://img.shields.io/badge/SQLite-1E1B2E?style=for-the-badge&logo=sqlite&logoColor=9F6FFF" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   <img src="https://img.shields.io/badge/HTML-1E1B2E?style=for-the-badge&logo=html5&logoColor=9F6FFF" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   <img src="https://img.shields.io/badge/CSS-1E1B2E?style=for-the-badge&logo=css3&logoColor=9F6FFF" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   <img src="https://img.shields.io/badge/JavaScript-1E1B2E?style=for-the-badge&logo=javascript&logoColor=9F6FFF" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   <img src="https://img.shields.io/badge/React-1E1B2E?style=for-the-badge&logo=react&logoColor=9F6FFF" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   <img src="https://img.shields.io/badge/Git-1E1B2E?style=for-the-badge&logo=git&logoColor=9F6FFF" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
 </div>
+
 
 
 ---
