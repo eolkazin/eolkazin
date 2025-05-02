@@ -38,6 +38,17 @@ Always open to new challenges and ready to embrace changes.
 
 <picture><img src="https://github-readme-activity-graph.vercel.app/graph?username=eolkazin&theme=redical&hide_border=true" style="width: 890px;"/></picture>
 
+
 <p align="center">
-<img src="https://metrics.lecoq.io/eolkazin" />
+  <strong>Always moving forward, building the future of code.</strong>
 </p>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmt6eW5xOXhjMnc0Z3g1dW8xam01dDloYTdteGYzcGJocmpxa2E3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Joker"/>
+</p>
+
+<p align="center">
+  <em>Code, advance, inspire!</em>
+</p>
+
+
