@@ -7,7 +7,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/eolkazin?label=Follow&style=social)
 ![Visitor Hits](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=eolkazin&countColor=%232979ff)
 
-## 👋 About Me
+ 👋 About Me :
 
 - 📍 Belo Horizonte, Brazil.
 - 📚 Studying **Analysis and Systems Development (ADS)**
