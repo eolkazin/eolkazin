@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=<Hello,+I'm+Lucas!/>+:%29;<Web+Developer/>+;<Hello,+I'm+Lucas!/>+:%29;<Web+Developer/>;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Lucas!+%3A%29;Backend+Developer)](https://git.io/typing-svg)
 
 # 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">
