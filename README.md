@@ -40,12 +40,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <strong>“Code, learn, repeat.”</strong><br/>
-  <em>Building today. Innovating tomorrow.</em>
-</p>
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250px" />
-</p>
