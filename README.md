@@ -1,55 +1,51 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Lucas!+%3A%29;Backend+Developer)](https://git.io/typing-svg)
-
-# 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">
-
-![Profile views](https://komarev.com/ghpvc/?username=eolkazin&color=000000)  
-![GitHub followers](https://img.shields.io/github/followers/eolkazin?label=Follow&style=social)
-![Visitor Hits](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=eolkazin&countColor=%232979ff)
-
- 👋 About Me :
-
-- 📍 Belo Horizonte, Brazil.
-- 📚 Studying **Analysis and Systems Development (ADS)**
-- 🌱 Aspiring **Backend Developer**  
-- 💡 Always open to new challenges and ready to embrace changes  
-
-
-<br>
-
-## 💻 Tech Stack:
-
-**⚒️ Languages & Tools:**
-
-![Python](https://img.shields.io/badge/Python-%2314357A?style=for-the-badge&logo=python&logoColor=%23FFD43B)
-![Django](https://img.shields.io/badge/Django-%232C3E50?style=for-the-badge&logo=django&logoColor=%23FFFFFF)
-![SQLite](https://img.shields.io/badge/SQLite-%23007ACC?style=for-the-badge&logo=sqlite&logoColor=%23FFFFFF)
-![Git](https://img.shields.io/badge/Git-%23F1502F?style=for-the-badge&logo=git&logoColor=%23FFFFFF)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=%23FFFFFF)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=%23FFFFFF)
-![Notion](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=%23FFFFFF)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23FFFFFF)
-
-
-
-
-## 📊 GitHub Stats:
-
-<picture><img src="https://github-readme-stats.vercel.app/api?username=eolkazin&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" width="53%" height="53%"/></picture><picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eolkazin&langs_count=8&layout=compact&theme=radical&hide_border=true" width="40.5%" height="40.5%"/></picture>
-
-<picture><img src="https://github-readme-activity-graph.vercel.app/graph?username=eolkazin&theme=redical&hide_border=true" style="width: 890px;"/></picture>
-
+<h1 align="center">Hi, I'm Lucas 👋</h1>
+<p align="center">🚀 Backend Developer | 💻 Tech Enthusiast | 📍 Belo Horizonte, Brazil</p>
 
 <p align="center">
-  <strong>Always moving forward, building the future of code.</strong>
+  <img src="https://komarev.com/ghpvc/?username=eolkazin&color=000000" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/eolkazin?label=Followers&style=social" alt="GitHub followers" />
+</p>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="280px" align="right" />
+
+### 👨‍💻 About Me
+
+- 🎓 Studying **Analysis and Systems Development (ADS)**
+- 🌱 Focused on **Backend Development**
+- 💡 Curious and always learning
+- 🤝 Open to collaboration and new opportunities
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="48" height="48" alt="Notion" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eolkazin&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eolkazin&layout=compact&theme=radical&hide_border=true" width="40%" />
+</p>
+
+---
+
+<p align="center">
+  <strong>“Code, learn, repeat.”</strong><br/>
+  <em>Building today. Innovating tomorrow.</em>
 </p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmt6eW5xOXhjMnc0Z3g1dW8xam01dDloYTdteGYzcGJocmpxa2E3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Joker"/>
+  <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250px" />
 </p>
-
-<p align="center">
-  <em>Code, advance, inspire!</em>
-</p>
-
-
