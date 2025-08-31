@@ -11,7 +11,9 @@ Always open to new challenges and ready to embrace changes.
 
 - 📍 Belo Horizonte, Brazil.
 - 📚 Studying **Analysis and Systems Development (ADS)**
-- 🌱 Aiming to become a **FullStack Developer**
+- 🌱 Aspiring **Backend Developer**  
+- 💡 Always open to new challenges and ready to embrace changes  
+
 
 <br>
 
