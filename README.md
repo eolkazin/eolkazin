@@ -19,17 +19,16 @@ Always open to new challenges and ready to embrace changes.
 
 **⚒️ Languages & Tools:**
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Django](https://img.shields.io/badge/Django-333333?style=flat&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=yellow)
-![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite&logoColor=blue)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion&logoColor=black)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E)
+![Python](https://img.shields.io/badge/Python-%2314357A?style=for-the-badge&logo=python&logoColor=%23FFD43B)
+![Django](https://img.shields.io/badge/Django-%232C3E50?style=for-the-badge&logo=django&logoColor=%23FFFFFF)
+![SQLite](https://img.shields.io/badge/SQLite-%23007ACC?style=for-the-badge&logo=sqlite&logoColor=%23FFFFFF)
+![Git](https://img.shields.io/badge/Git-%23F1502F?style=for-the-badge&logo=git&logoColor=%23FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=%23FFFFFF)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=%23FFFFFF)
+![Notion](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=%23FFFFFF)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23FFFFFF)
+
+
 
 
 ## 📊 GitHub Stats:
