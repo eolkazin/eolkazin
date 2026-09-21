@@ -1,43 +1,104 @@
-<h1 align="center">Hi, I'm Lucas 👋</h1>
-<p align="center">🚀 Backend Developer | 💻 Tech Enthusiast | 📍 Belo Horizonte, Brazil</p>
+<!-- HEADER -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eolkazin&color=000000" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/eolkazin?label=Followers&style=social" alt="GitHub followers" />
-</p>
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="280px" align="right" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:7c3aed&height=200&section=header&text=Lucas&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18"/>
 
-### 👨‍💻 About Me
-
-- 🎓 Studying **Analysis and Systems Development (ADS)**
-- 🌱 Focused on **Backend Development**
-- 💡 Curious and always learning
-- 🤝 Open to collaboration and new opportunities
-
----
-
-### 🛠️ Tech Stack
-
-<div style="display: flex; align-items: center; gap: 16px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" />
 </div>
 
-
-
-
----
-
-### 📊 GitHub Stats
+<!-- PROFILE -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eolkazin&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eolkazin&layout=compact&theme=radical&hide_border=true" width="40%" />
+  <img src="https://komarev.com/ghpvc/?username=eolkazin&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/eolkazin?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS"/>
 </p>
 
----
+<br>
+
+<!-- TERMINAL -->
+
+<table align="center">
+<tr>
+<td width="55%" valign="top">
+
+### `> whoami`
+
+```text
+Lucas
+
+Backend Developer
+Tech Enthusiast
+Belo Horizonte, Brazil
+```
+
+### `> about_me`
+
+* 🎓 Studying **Analysis and Systems Development (ADS)**
+* 🌱 Focused on **Backend Development**
+* 💡 Curious and always learning
+* 🤝 Open to collaboration and new opportunities
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="330px"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- TECH STACK -->
+
+<h2 align="center">⚡ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,sqlserver,git&theme=dark" />
+</p>
+
+<br>
+
+<!-- CODE GIF -->
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520px"/>
+
+</div>
+
+<br>
+
+<!-- GITHUB -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eolkazin&theme=radical"
+    width="48%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eolkazin&theme=radical"
+    width="48%"
+  />
+</p>
+
+<br>
+
+<!-- FOOTER -->
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│        Building • Learning • Evolving        │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:161b22,100:0d1117&height=120&section=footer"/>
+
+</div>
