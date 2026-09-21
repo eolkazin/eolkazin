@@ -24,7 +24,7 @@
 ### `> whoami`
 
 ```text
-Lucas
+Lucas Guerra
 
 Backend Developer
 Tech Enthusiast
