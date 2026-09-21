@@ -55,7 +55,12 @@ Belo Horizonte, Brazil
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,sqlserver,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,git&theme=dark" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+    width="48"
+    alt="SQL Server"
+  />
 </p>
 
 <br>
